@@ -1,6 +1,16 @@
+<img
+  srcset="spearhead2"
+  src="spearhead2.png"
+  height="200"
+  width="200"
+  alt="Logo showing golden spearhead with a Celtic triple spiral design" />
+
 # Project Lúin
+
 info@luin.ie \
 www.luin.ie \
+
+
 0_0_1
 
 ## Research on Historic Irish Rockets 
