@@ -46,15 +46,25 @@ Robert Emmet’s rockets highlights Ireland’s history, then and now, as a lead
 
 The project aims to understand and share this history as it has never been before.  Planned activities will include: 
 
-Gather whatever details are available on Emmet’s rockets from the historical record, focusing on the technical details which have rarely been the focus of interest by historians
-Explore and document the characteristics of the artefacts available from the Emmet rockets, the Indian and the Congreve rockets – including their metallurgy, casing, propellant, payload, flight behaviour, manufacturing process, storage and tactical use.  
-Create digital twins in the form of fully-detailed and usable Computer Aided Design (CAD) files and simulation models of the rocket combustion and flight for the Emmet rockets, the rockets from the Indian states and the Congreve rockets built in Britain.   Trace, using the Indian sources, the history of Emmet and the United Irishmen, British records and artefacts and from the scientific and military literature of the time, the role of Emmet in the evolution of rocketry, what were his likely sources for his rocket designs and what of his influence can be seen in the British work 
+1. Gather whatever details are available on Emmet’s rockets from the historical record, focusing on the technical details which have rarely been the focus of interest by historians
+* Explore and document the characteristics of the artefacts available from the Emmet rockets, the Indian and the Congreve rockets – including their metallurgy, casing, propellant, payload, flight behaviour, manufacturing process, storage and tactical use.  
+* Create digital twins in the form of fully-detailed and usable Computer Aided Design (CAD) files and simulation models of the rocket combustion and flight for the Emmet rockets, the rockets from the Indian states and the Congreve rockets built in Britain.
+* Trace, using the Indian sources, the history of Emmet and the United Irishmen, British records and artefacts and from the scientific and military literature of the time, the role of Emmet in the evolution of rocketry, what were his likely sources for his rocket designs and what of his influence can be seen in the British work 
 
-Recreate accurate physical reproductions of the Emmet and other rockets.  
-High-quality iron models made by hand or 3d-printed can be used for display in public and these should be offered to museums in this field, especially those displaying historic rockets.  Key influencers in the fields of rocketry, aerospace and technology should see these models also as a demonstration of Ireland’s history as an advanced technological nation.  Building rockets using the original designs with iron cases and black-powder propellant will allow us to understand reproduce the design choices and manufacturing process used by Emmet.  
-Testing will give proof that Emmet’s rocket designs plausibly flew as the eyewitness accounts claim.   Static testing of replicas can show, as with a modern rocket or jet engine, that they burn steadily without destroying the rocket and with a steady thrust with the power to fly the distances of 1000 yards and more achieved by the British rockets.
-Flying the same Emmet rockets will show their flight in real conditions, using instrumentation and sensors to help measure their range, power and accuracy and verify our historical and engineering analysis.   
-Test flights should be open to public audiences where possible.  Others should be recorded on video for distribution on social media and for public broadcast media.  
-Plastic reproductions can be made cheaply and easily for the general public. 
-Plastic replicas should also be designed to be marketed by existing manufacturers such as Estes in the American hobby rocket market, to be built and flown by school and amateur rocket clubs, a very common activity in American secondary schools.    
-As Congreve is already commemorated for his British rockets by having a crater on the moon named after him, the Irish government, perhaps working together with India, should have the same tribute paid for Robert Emmet and for Tipu Sultan.  
+2. Recreate accurate physical reproductions of the Emmet and other rockets.  
+*High-quality iron models made by hand or 3d-printed can be used for display in public and these should be offered to museums in this field, especially those displaying historic rockets.  Key influencers in the fields of rocketry, aerospace and technology should see these models also as a demonstration of Ireland’s history as an advanced technological nation. 
+* Building rockets using the original designs with iron cases and black-powder propellant will allow us to understand reproduce the design choices and manufacturing process used by Emmet.  
+
+3. Testing will give proof that Emmet’s rocket designs plausibly flew as the eyewitness accounts claim.
+*  Static testing of replicas can show, as with a modern rocket or jet engine, that they burn steadily without destroying the rocket and with a steady thrust with the power to fly the distances of 1000 yards and more achieved by the British rockets.
+* Flying the same Emmet rockets will show their flight in real conditions, using instrumentation and sensors to help measure their range, power and accuracy and verify our historical and engineering analysis.   
+* Test flights should be open to public audiences where possible.  Others should be recorded on video for distribution on social media and for public broadcast media.  
+
+4. Public Engagement
+* Reproductions can be made cheaply and easily for the general public. 
+* Plastic replicas should also be designed to be marketed by existing manufacturers such as Estes in the American hobby rocket market, to be built and flown by school and amateur rocket clubs, a very common activity in American secondary schools.    
+
+5. Public Diplomacy
+* Commemorations of Robert Emmet, usually celebrated annually on the anniversary of his death on 20th September, should report on this research
+* The anniversary of the bombardment of Washington DC on 24th August should be memorialised to include the role of the Congreve rocket and Emmet's work
+* As Congreve is already commemorated for his British rockets by having a crater on the moon named after him, the Irish government, perhaps working together with India, should have the same tribute paid for Robert Emmet and for Tipu Sultan.  
