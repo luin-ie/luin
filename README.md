@@ -1,6 +1,6 @@
 # Project Lúin
-info@luin.ie
-luin.ie
+info@luin.ie \
+www.luin.ie \
 0_0_1
 
 ## Research on Historic Irish Rockets 
